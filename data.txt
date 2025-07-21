@@ -1,0 +1,4 @@
+Name:Aishwarya
+Department:Entc
+Score:92
+Internship:Codtech
